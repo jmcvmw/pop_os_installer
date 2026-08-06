@@ -17,3 +17,5 @@ sudo apt install smartmontools -y
 #sudo apt install speedtest-cli -y
 
 flatpak install app/io.missioncenter.MissionCenter
+flatpak install org.remmina.Remmina
+flatpak install io.github.totoshko88.RustConn 
