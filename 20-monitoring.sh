@@ -20,3 +20,4 @@ sudo apt install smartmontools -y
 flatpak install app/io.missioncenter.MissionCenter
 flatpak install org.remmina.Remmina
 flatpak install io.github.totoshko88.RustConn 
+flatpak install com.github.muriloventuroso.easyssh
