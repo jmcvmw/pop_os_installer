@@ -1,0 +1,9 @@
+# GPU cards
+
+RTX     1060    FH      6GB     2.0S lot    1x 8pin
+RTX     1650    LP      4GB     2.0 Slot    bus powered
+RTX     2060    FH      6GB     2.0 Slot    2x 8pin
+RTX     3050    LP      6GB     2.0 Slot    bus powered
+RTX     4070    FH      12GB    2.5 Slot    1x 8pin
+
+
