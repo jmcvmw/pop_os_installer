@@ -3,6 +3,7 @@ sudo apt upgrade -y
 
 sudo apt install lm-sensors -y
 sudo apt install htop -y
+sudo apt install btop -y
 sudo apt install iftop -y
 sudo apt install iotop -y
 sudo apt install net-tools -y
