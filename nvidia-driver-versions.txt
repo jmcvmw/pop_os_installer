@@ -3,3 +3,18 @@ nvidia driver versions
 
 
 RTX     1060        470
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+580     CUDA    12.0
