@@ -3,7 +3,7 @@ nvidia driver versions
 
 
 RTX     1060        580
-
+RTX     2060        580
 
 
 
