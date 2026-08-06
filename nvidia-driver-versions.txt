@@ -2,7 +2,7 @@ nvidia driver versions
 
 
 
-RTX     1060        470
+RTX     1060        580
 
 
 
