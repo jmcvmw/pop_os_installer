@@ -1,0 +1,7 @@
+Repo details:
+
+https://github.com/jmcvmw/pop_os_installer.git
+
+
+git clone https://github.com/jmcvmw/pop_os_installer.git
+
