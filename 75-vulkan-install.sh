@@ -1,2 +1,2 @@
-sudo apt install vulkan tools -y
-sudo apt install libvulcan-dev -y
+sudo apt install vulkan-tools -y
+sudo apt install libvulkan-dev -y
