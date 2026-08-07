@@ -8,6 +8,8 @@ sudo apt install iftop -y
 sudo apt install iotop -y
 sudo apt install net-tools -y
 sudo apt install smartmontools -y
+sudo apt install inxi -y
+
 #sudo apt install inxi -y
 #sudo apt install gnome-system-monitor -y    
 #sudo apt install glances -y
