@@ -1,0 +1,3 @@
+cmake .. -DGGML_METAL=ON -DGGML_VULKAN=ON
+
+
